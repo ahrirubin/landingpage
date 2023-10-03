@@ -1,0 +1,99 @@
+.container {
+  background-color: transparent;
+  border: solid 2px black;
+  border-radius: 25px;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  font-size: 15px;
+  font-family: "Martian Mono", monospace;
+  border-bottom: solid 2px black;
+  padding: 20px 50px;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+a {
+  padding: 10px;
+}
+
+.hero {
+  text-align: center;
+  font-family: "Martian Mono", monospace;
+  border-bottom: solid 2px black;
+  padding: 50px;
+}
+
+.reco-cards{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+.info {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Martian Mono", monospace;
+  border-bottom: solid 2px black;
+  padding: 50px;
+}
+
+.reco {
+  text-align: center;
+  font-family: "Martian Mono", monospace;
+  border-bottom: solid 2px black;
+  padding: 50px;
+}
+
+.reco1 {
+  width: 100px;
+  border: solid 2px black;
+  border-radius: 25px;
+  padding: 20px;
+  margin:10px;
+  height: 80px;
+  
+}
+
+.reco2 {
+  width: 100px;
+  border: solid 2px black;
+  border-radius: 25px;
+  margin:10px;
+  padding: 20px;
+}
+
+.reco3 {
+  width: 100px;
+  border: solid 2px black;
+  border-radius: 25px;
+  margin:10px;
+  padding: 20px;
+}
+
+.cta {
+  text-align: center;
+  font-family: "Martian Mono", monospace;
+  border-bottom: solid 2px black;
+  padding: 50px;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 12px;
+  font-family: "Martian Mono", monospace;
+  padding: 50px;
+}
+
+
